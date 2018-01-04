@@ -22,7 +22,7 @@ import { DragAndDropPage } from '../pages/drag-and-drop/drag-and-drop';
     DoubleClickingPage,
     RightClickingPage,
     LeftClickingPage,
-    DragAndDropPage
+    DragAndDropPage    
   ],
   imports: [
     BrowserModule,
